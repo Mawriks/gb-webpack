@@ -6,7 +6,6 @@ import audio1 from '../../audio/1.mp3';
 import audio2 from '../../audio/2.mp3';
 import audio3 from '../../audio/3.mp3';
 import video1 from '../../video/1.mp4';
-import video2 from '../../video/2.mp4';
 
 export default [
     {
@@ -47,11 +46,6 @@ export default [
     {
         url: video1,
         title: 'Title of video 1',
-        type: 'video'
-    },
-    {
-        url: video2,
-        title: 'Title of video 2',
         type: 'video'
     }
 ];
